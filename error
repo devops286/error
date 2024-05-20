@@ -1,0 +1,11 @@
+CRC errors for host dny2d1vqa01:
+
+Error: Missing required parameter -n|--nic-name
+
+Usage: esxcli network nic stats get [cmd options]
+
+Description: 
+  get                   Get NIC statistics for a given interface.
+
+Cmd options:
+  -n|--nic-name=<str>   Name of the NIC to get statistics from. (required)
